@@ -663,7 +663,7 @@ function PlasmicHomepage__RenderFunc(props: {
                   <FormItemWrapper
                     className={classNames(
                       "__wab_instance",
-                      sty.formField__pAwfk
+                      sty.formField__r5Urn
                     )}
                     label={
                       "\u0646\u0627\u0645 \u0648 \u0646\u0627\u0645 \u062e\u0627\u0646\u0648\u0627\u062f\u06af\u06cc"
@@ -671,13 +671,13 @@ function PlasmicHomepage__RenderFunc(props: {
                     name={"name"}
                   >
                     <AntdInput
-                      className={classNames("__wab_instance", sty.input__xVuI)}
+                      className={classNames("__wab_instance", sty.input__cEHd)}
                     />
                   </FormItemWrapper>
                   <FormItemWrapper
                     className={classNames(
                       "__wab_instance",
-                      sty.formField__uofeE
+                      sty.formField__ghHCp
                     )}
                     label={
                       "\u0634\u0645\u0627\u0631\u0647 \u0647\u0645\u0631\u0627\u0647 \u062e\u0648\u062f \u0631\u0627 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f"
@@ -689,7 +689,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     />
                   </FormItemWrapper>
                   <AntdButton
-                    className={classNames("__wab_instance", sty.button__fSBt)}
+                    className={classNames("__wab_instance", sty.button__prkgq)}
                     submitsForm={true}
                     type={"primary"}
                   >
@@ -697,7 +697,7 @@ function PlasmicHomepage__RenderFunc(props: {
                       className={classNames(
                         projectcss.all,
                         projectcss.__wab_text,
-                        sty.text__mwa5C
+                        sty.text__udha3
                       )}
                     >
                       {"Submit"}

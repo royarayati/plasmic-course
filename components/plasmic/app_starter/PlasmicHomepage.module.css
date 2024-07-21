@@ -5,6 +5,7 @@
   height: 100%;
   align-content: flex-start;
   justify-items: center;
+  background: var(--token-y67qtjHCZN4U);
   min-width: 0;
   min-height: 0;
   grid-template-columns:
@@ -168,16 +169,16 @@
   min-width: 0;
   padding: 8px;
 }
-.formField__pAwfk:global(.__wab_instance) {
+.formField__r5Urn:global(.__wab_instance) {
   width: 100%;
   margin-bottom: 24px;
   min-width: 0;
 }
-.input__xVuI:global(.__wab_instance) {
+.input__cEHd:global(.__wab_instance) {
   max-width: 100%;
   object-fit: cover;
 }
-.formField__uofeE:global(.__wab_instance) {
+.formField__ghHCp:global(.__wab_instance) {
   width: 100%;
   margin-bottom: 24px;
   min-width: 0;
@@ -186,11 +187,11 @@
   max-width: 100%;
   object-fit: cover;
 }
-.button__fSBt:global(.__wab_instance) {
+.button__prkgq:global(.__wab_instance) {
   max-width: 100%;
   object-fit: cover;
 }
-.text__mwa5C {
+.text__udha3 {
   position: relative;
   width: 100%;
   height: auto;
